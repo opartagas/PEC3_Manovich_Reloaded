@@ -1,4 +1,5 @@
 # PAC3: Manovich Reloaded
+#
 **Autor:** [Oriol Partagàs Muñoz]
 **Llicència:** CC BY-SA 4.0
 **Assignatura:** Cultura Digital
