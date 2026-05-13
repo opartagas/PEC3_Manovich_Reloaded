@@ -19,7 +19,7 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
     </i></sub></small>
   </div>
 </div>
-<br>
+
 
 
 <div align="center">
