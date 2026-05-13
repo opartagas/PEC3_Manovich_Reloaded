@@ -14,9 +14,10 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
 
 <div align="center">
 <img src="img/Ableton_logo.png" width="400">
+  <p align="center"><small><i>Logo Ableton Live (CC BY-SA 4.0)</i></small></p>
 </div>
 
-<div style="height:120px;"></div>
+<br><br><br><br>
 
 <div align="center">
   <img src="img/capture_logo.visualitation.png" width="400">
