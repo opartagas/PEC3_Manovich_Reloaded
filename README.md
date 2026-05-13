@@ -10,6 +10,8 @@ Això ens indica que no s’acumulen com entitats diferents que simplement inter
 
 Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convertit en un element imprescindible en la concepció contemporània del disseny d’il·luminació en referència programa Capture i en la producció de so pel que fa l'Ableton live.
  <br>
+  <br>
+  
 <div align="center">
   <img src="img/Ableton_logo.png" width="400"><br>
 
