@@ -1,8 +1,8 @@
-# PAC3: Manovich Reloaded
-**Autor:** [Oriol Partagàs Muñoz]
-**Llicència:** CC BY-SA 4.0
-**Assignatura:** Cultura Digital
-**Grau:** Multimedia
+# PAC3: Manovich Reloaded  
+**Autor:** [Oriol Partagàs Muñoz]  
+**Llicència:** CC BY-SA 4.0  
+**Assignatura:** Cultura Digital  
+**Grau:** Multimedia  
 
 ## Introducció
 En un món on els canvis es produeixen cada vegada més ràpidament, sovint ni tan sols som conscients de com els mitjans que utilitzem diàriament muten i transformen la nostra vida. Aquests no només evolucionen, sino que esdevenen altres mitjans, tal com van preveure Kay i Goldberg. Un d’aquests elements més presents en la nostra quotidianitat és l’ordinador que amb el pas del temps deixa de ser un mitjà per convertir-se en un metamedi, capaç de contenir una infinitat de mitjans que a la vegada s’hibriden per esdevenir altres mitjans que canviaran la lògica del programari.
@@ -10,19 +10,21 @@ Això ens indica que no s’acumulen com entitats diferents que simplement inter
 
 Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convertit en un element imprescindible en la concepció contemporània del disseny d’il·luminació en referència programa Capture i en la producció de so pel que fa l'Ableton live.
 
+
+
 <div align="center">
   <img src="img/Ableton_logo.png" width="300">
   <br>
   <em>Logo Ableton live (CC BY-SA 4.0)</em>
 </div>
 
+
+
 <div align="center">
   <img src="img/capture_logo.visualitation.png" width="300">
   <br>
-  <em>Logo Ableton live (CC BY-SA 4.0)</em>
 </div>
 
-##![Logo Capture (CC BY-SA 4.0)](img/capture_logo.visualitation.png)
 
 ## Cas d'Hibridació 1: [Ableton Live]
 ### Descripció
