@@ -17,7 +17,7 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
 
   <div style="text-align:left; width:400px; margin:0 auto;">
     <small><sub><i>
-      Logo Ableton Live (CC BY-SA 4.0)
+     <p>Logo Ableton Live (CC BY-SA 4.0)</p> 
     </i></sub></small>
   </div>
 </div>
