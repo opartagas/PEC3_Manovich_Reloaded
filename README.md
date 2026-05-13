@@ -22,7 +22,8 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
   </div>
 </div>
 <br>
-<br>
+
+
 <div align="center">
   <img src="img/capture_logo.visualisation.png" width="400"><br>
 
