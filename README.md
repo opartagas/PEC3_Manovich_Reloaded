@@ -29,7 +29,8 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
 
   <div style="text-align:left; width:400px; margin:0 auto;">
     <small><sub><i>
-      Logo de Capture Visualisation. © Capture Visualisation AB. Ús merament identificatiu.
+      <p>Logo de Capture Visualisation. © Capture Visualisation AB.</p>
+      <p>Ús merament identificatiu.</p>
     </i></sub></small>
   </div>
 </div>
