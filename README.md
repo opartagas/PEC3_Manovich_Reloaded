@@ -35,8 +35,13 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
 </div>
   <br>
 
-## Cas d'Hibridació 1: [Ableton Live]
-### Descripció
+## Cas d'Hibridació 1: [Ableton Live] 
+### L'Ableton live és un clar exemple de com el progrmari a pres el control en l'entorn de la producció musical. El fet que marca le diferència amb altres seqüenciadors musicals, és que la fussió de diferents tecniques de producció, ha esdevingut un programa dissenyat per ser un instrument en directe, un estudi de gravació amb funcionalitats per compondre, gravar arrenjar i matseritzar i a la vegada una taula de mescles de DJ oferint les mateixesprestacions.
+
+El programa ofereix una composició musical amb un muntatge no lineal típic de la gran majoria de programes de producció musical. És a dir en la vista de la sessió la música no es tracta com una línia en el temps fixe, sino que es fracciona com una matriu de moduls capaç de ser editada a temps real barrejant fragments.
+
+Un dels elements claus que que permet manipular de forma estructural el concepte de la composició, separant diferents variables però mantenint la coherència del resultat, és la funcionalitat del Wraping. Aquesta tècnica permet separar el velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectement en el mateix tempo i tonalitat. 
+
 
 
 ### Anàlisi d'hibridació
