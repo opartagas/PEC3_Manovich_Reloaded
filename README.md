@@ -51,7 +51,7 @@ El programa ofereix una composició musical basada en un muntatge no lineal, fet
 D'altra banda un aspecte fonamental que integra el programa en un entorn d'hibridació, és la capacitat que té aquest per treballar en entorns MIDI. El mapeig de controladors físics que es sincronitzen de forma immediata amb el programari, demostra com l'entorn virtual del programa també s'hibrida amb l'entorn físic. 
 <br>
 <br>
-#### REMIXABILITAT PROFUNDA
+#### **REMIXABILITAT PROFUNDA**
 Un dels elements claus que permet manipular de forma estructural el concepte de la composició, separant diferents variables, però mantenint la coherència del resultat, és la funcionalitat del Warping. Tal com menciona Manovich en referència a la remixabilitat profunda, aquesta tècnica "té la capacitat de desmuntar, alterar i recombinar els elements interns i els pròpis llenguatges dels mitjans a un nivell atòmic." És capaç de separar la velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectament en el mateix tempo i tonalitat. 
 
 D'altra banda l'eina Max for Live (M4L), permet modificar i programar els plugins que venen de fàbrica segons les necessitats de l'usuari. L'eina obre les portes a programar i crear els mateixos instruments, efectes d'audio i eines MIDI dins del mateix Ableton, fent que l'usuari sigui el mateix creador d'eines programant en la profunditat dels recursos del programari. 
