@@ -125,9 +125,10 @@ En aquest context, s'hibriden en un sol procés eines que abans funcionaven de f
     </i></sub></small>
   </div>
 </div>
-  <br>
+
 <br>
 <br>
+
 #### **HIBRIDACIÓ DE TÈCNIQUES**
 
 Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·luminacions provinent de tres disciplines originalment separades: la planimetria 2D i el modelatge 3D (propis de l'arquitectura i l'enginyeria), la programació d'il·luminació (vinculada a l'automatització i seqüenciació d'espectacles en viu) i la simulació física de la llum (relacionada amb la creació artística i la narrativa visual). Aquesta convergència crea un espai on la representació espacial, el control tècnic i la visualització artística no només conviuen, sinó que s’integren operativament.
