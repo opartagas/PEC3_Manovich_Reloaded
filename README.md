@@ -112,7 +112,8 @@ Capture, és un programari que actua com a pont entre l'espai escenogràfic tang
 
 El programari esdevé laboratori virtual en una *"capa invisible"*, que permet a tot un equip de disseny (escenografs, il·luminadors, tècnics i directors), creeï, programi i assagi un espectacle de gran format, molt abans de que la producció executiva entri en joc.
 En aquest context, s'hibriden en un sol procés eines que abans funcionaven de forma separada: la planimetria 2D, el modelatge 3D, la programació d'il·luminació, la simulació virtual i documentació. Capture, es transforma així en un metamedi, tal com mencionaven Kay i Goldberg on tots els procesos s'integren un sol ecosistema digital que redefineix els mitjans físics originals.
-
+ <br>
+  <br>
   
 <div align="center">
   <img src="img/capture espacio trabajo.png" width="400"><br>
