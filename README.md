@@ -137,17 +137,18 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 <br>
  <br>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=3-lpBDL17Eg" target="_blank" style="text-decoration: none !important; color: #ffffff !important;">
-    <img src="img/DEMO CAPTURE.png" width="400" alt="Demo Capture Show" style="border: none;"><br>
-    <div style="text-align: left; width: 400px; margin: 10px auto 0 auto; color: #ffffff !important; text-decoration: none !important;">
-      <small><sub><i>
-        <p style="color: #ffffff !important; text-decoration: none !important; margin: 4px 0;"><strong>VEURE VÍDEO</strong> (Clica per obrir a YouTube)</p>
-        <p style="color: #ffffff !important; text-decoration: none !important; margin: 4px 0;">Vídeo de Stage Management Company.</p>
-        <p style="color: #ffffff !important; text-decoration: none !important; margin: 4px 0;">Demo creada amb Capture, d'un Show de llums sincronitzat amb la música.</p>
-      </i></sub></small>
-    </div>
-
+  <a href="https://www.youtube.com/watch?v=3-lpBDL17Eg" target="_blank">
+    <img src="img/DEMO CAPTURE.png" width="400" alt="Clica per veure el vídeo a YouTube" style="border: none;">
   </a>
+  <br>
+
+  <div style="text-align: left; width: 400px; margin: 10px auto 0 auto;">
+    <small><sub><i>
+      <p style="margin: 4px 0;"><strong>VEURE VÍDEO:</strong> <a href="https://www.youtube.com/watch?v=3-lpBDL17Eg" target="_blank">Clica aquí per obrir a YouTube</a></p>
+      <p style="margin: 4px 0;">Vídeo de Stage Management Company.</p>
+      <p style="margin: 4px 0;">Demo creada amb Capture, d'un Show de llums sincronitzat amb la música.</p>
+    </i></sub></small>
+  </div>
 </div>
 
 
