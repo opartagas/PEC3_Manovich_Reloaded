@@ -71,7 +71,7 @@ El programari esdevé laboratori virtual en una *"capa invisible"*, que permet a
 En aquest context, s'hibriden en un sol procés eines que abans funcionaven de forma separada: la planimetria 2D, el modelatge 3D, la programació d'il·luminació, la simulació virtual i documentació. Capture, es transforma així en un metamedi, tal com mencionaven Kay i Goldberg on tots els procesos s'integren un sol ecosistema digital que redefineix els mitjans físics originals.
 <br>
 <br>
-#### HIBRIDACIÓ DE TÈCNIQUES
+#### **HIBRIDACIÓ DE TÈCNIQUES**
 
 Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·luminacions provinent de tres disciplines originalment separades: la planimetria 2D i el modelatge 3D (propis de l'arquitectura i l'enginyeria), la programació d'il·luminació (vinculada a l'automatització i seqüenciació d'espectacles en viu) i la simulació física de la llum (relacionada amb la creació artística i la narrativa visual). Aquesta convergència crea un espai on la representació espacial, el control tècnic i la visualització artística no només conviuen, sinó que s’integren operativament.
 
@@ -79,20 +79,20 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 
 <br>
 <br>
-#### REMIXABILITAT PROFUNDA
+#### **REMIXABILITAT PROFUNDA**
 
 Capture exemplifica la remixabilitat profunda descrita per Manovich perquè permet descompondre i manipular tots els elements d’un disseny lumínic a un nivell estructural. El programa no només ofereix un catàleg extens de projectors que esdeven objectes de forma modular amb paràmetres independents —color, intensitat, focus, gobo, moviment— que poden ser modificats, sinó que permet que les lleis de la física (com la reflexió o la dispersió en el fum) esdevinguin elements de programari manipulables de forma independent. 
 
 Aquesta combinació crea un ecosistema viu i variable on la intervenció lumínica no és un afegit estètic, sinó una dada més que es recombina amb l'espai. Tanmateix, tot aquest ecosistema viu, pot mutar d'escenari de forma instantània; modificant la planta arquitectònica de la planigrafia, canviant al plànol d'un teatre a un altre i alhora imprimir el seu punt de vista tant en 2D com en 3D. Tal com menciona Manovich, La combinació d’aquests elements crea un ecosistema digital dinàmic on els components de l'entorn poden ser alterats i recombinats a "nivell atòmic". 
 <br>
 <br>
-#### NOVA GESTALT
+#### **NOVA GESTALT**
 
 Finalment, Capture genera una nova gestalt en el disseny de la il·luminació escènica. L'experiència de l'usuari no és la suma d'elements separats (plànol 2D + model 3D + programació DMX), sinó una nova entitat on es realitza el projecte complet d'una il·luminació, trencant les  fronteres entre el disseny tècnic i la realitat visual per esdevenir un projecte tècnic i artístic únic. 
 
 Tal com menciona Manovich, aquesta hibridació crea un llenguatge propi on la simulació és el resultat d'un procés integrat, possible gràcies al fet que el "software ha passat a ser la capa invisible que impregna totes les etapes de la creació". El resultat és una hibridada en un metamitja on l'il·luminador pot treballar amb una sola "caixa d'eines digital" que anteriorment requerien mitjans separats i desconnectats entre si.
 
-## Conclusions
+## CONCLUSIONS
 
 
 ## BIBLIOGRAFIA 
