@@ -52,9 +52,9 @@ El programa ofereix una composició musical basada en un muntatge no lineal, fet
   <br>
   
 <div align="center">
-  <img src="img/Ableton_logo.png" width="400"><br>
+  <img src="img/arrengement veiw.png" width="500"><br>
 
-  <div style="text-align:left; width:400px; margin:0 auto;">
+  <div style="text-align:left; width:500px; margin:0 auto;">
     <small><sub><i>
       <p>Imatge de l'espai d'arranjaments, on es pot modificar i adaptar els clips</p>
      <p>*Arrangement View*</p>
@@ -65,9 +65,9 @@ El programa ofereix una composició musical basada en un muntatge no lineal, fet
 
 
 <div align="center">
-  <img src="img/Session veiw.png" width="400"><br>
+  <img src="img/Session veiw.png" width="500"><br>
 
-  <div style="text-align:left; width:400px; margin:0 auto;">
+  <div style="text-align:left; width:500px; margin:0 auto;">
     <small><sub><i>
       <p>Area de Flux de treball no lineal.</p>
       <p>*Session Veiw*</p>
