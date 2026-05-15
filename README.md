@@ -46,21 +46,18 @@ Gràcies a la nova estructuració i optimització del programari, l'estudi de gr
 <br>
 <br>
 #### **HIBRIDACIÓ DE TÈCNIQUES**
-<br>
 El programa ofereix una composició musical basada en un muntatge no lineal, fet que la distingeix de la gran majoria de programes de producció musical tradicionals. És a dir, el programa ofereix una Vista de la Sessió (*Session Veiw*) on la música no es tracta com una línia en el temps fix, que es fracciona com una matriu de mòduls capaços de ser editats i llançats a temps real, barrejant fragments de forma indeterminada. A més aquesta interfície coexisteix simultàniament amb la Vista d'Arranjaments (*Arrangement View*) on l'usuari pot modificar i adaptar el aquests fragments en una línia temporal donant una coherència musical a la creació. 
 
 D'altra banda un aspecte fonamental que integra el programa en un entorn d'hibridació, és la capacitat que té aquest per treballar en entorns MIDI. El mapeig de controladors físics que es sincronitzen de forma immediata amb el programari, demostra com l'entorn virtual del programa també s'hibrida amb l'entorn físic. 
 <br>
 <br>
-#### REMIXABILITAT PROFUNDA
-<br>
+#### REMIXABIULITAT PROFUNDA
 Un dels elements claus que permet manipular de forma estructural el concepte de la composició, separant diferents variables, però mantenint la coherència del resultat, és la funcionalitat del Warping. Tal com menciona Manovich en referència a la remixabilitat profunda, aquesta tècnica "té la capacitat de desmuntar, alterar i recombinar els elements interns i els pròpis llenguatges dels mitjans a un nivell atòmic." És capaç de separar la velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectament en el mateix tempo i tonalitat. 
 
 D'altra banda l'eina Max for Live (M4L), permet modificar i programar els plugins que venen de fàbrica segons les necessitats de l'usuari. L'eina obre les portes a programar i crear els mateixos instruments, efectes d'audio i eines MIDI dins del mateix Ableton, fent que l'usuari sigui el mateix creador d'eines programant en la profunditat dels recursos del programari. 
 <br>
 <br>
 ### NOVA GESTALT
-<br>
 Ableton Live, en l'era digital, esdevé una eina on la música es percep com la creació d'una obra complexa creada a partir de petits fragments digitals separats i modificats, establerts en un mitjà propi amb regles i objectes nous. Els clips fraccionats i aïllats, per si sols no estableixen una coherència musical, en ser llançats en la línia del temps dins de la graella musical esdevenen una unitat significativa que dona forma a l'obra final. En conjunt, aquest procés dona lloc a un nou llenguatge digital i a una nova manera de percebre la creació sonora, completament insubstituïble pels mitjans predecessors.
 <br>
 <br>
