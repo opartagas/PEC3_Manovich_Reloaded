@@ -136,20 +136,20 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 <br>
 <br>
  <br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3-lpBDL17Eg" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="img/DEMO CAPTURE.png" width="400" alt="Demo Capture Show" style="border: none;"><br>
+    <div style="text-align: left; width: 400px; margin: 10px auto 0 auto;">
+      <small><sub><i>
+        <p><strong>VEURE VÍDEO</strong> (Clica per obrir a YouTube)</p>
+        <p>Vídeo de Stage Management Company.</p>
+        <p>Demo creada amb Capture, d'un Show de llums sincronitzat amb la música.</p>
+      </i></sub></small>
+    </div>
+    
+  </a>
 </div>
-<a href="[https://www.youtube.com/watch?v=3-lpBDL17Eg](https://www.youtube.com/watch?v=3-lpBDL17Eg)">
- <div align="center">
-  <img src="img/DEMO CAPTURE.png"width="400"><br>
-</a>
 
- <div style="text-align:left; width:400px; margin:0 auto;">
-    <small><sub><i>
-     <p>VEURE VIDEO</p>
-      <p>Video de Stage Management Company.</p>
-     <p>Demo creada amb Capture, d'un Show de llums sincronitzat amb la musica</p>
-    </i></sub></small>
-  </div>
-</div>
 
 
 #### **REMIXABILITAT PROFUNDA**
