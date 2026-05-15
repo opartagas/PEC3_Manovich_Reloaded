@@ -95,6 +95,12 @@ Tal com menciona Manovich, aquesta hibridació crea un llenguatge propi on la si
 ## Conclusions
 
 
-## Bibliografia i Referències
-- Manovich, L. (2013). Software Takes Command.
-- [Enllaços]
+## BIBLIOGRAFIA 
+- Adell, Ferran. (2024). Remediació, multimèdia i hibridació. [Recurs d'aprenentatge]. UOC.
+- Manovich, Lev. (2013). El software toma el mando. Editorial UOC.
+- Kay, A., & Goldberg, A. (1977). Personal Dynamic Media. IEEE Computer.
+- Justicia, Juan. (2014). Coneixement obert i tecnologia. [Recurs d'aprenentatge]. UOC.
+
+## MANUALS DE REFERENCIA
+- Ableton AG. (s.f.). Ableton Live Reference Manual. Recuperat de https://www.ableton.com/en/manual/welcome-to-live/
+- Capture Visualisation AB. (s.f.). Capture Reference Manual. Recuperat de https://www.capture.se/Support/Documentation
