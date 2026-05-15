@@ -48,6 +48,33 @@ Gràcies a la nova estructuració i optimització del programari, l'estudi de gr
 #### **HIBRIDACIÓ DE TÈCNIQUES**
 El programa ofereix una composició musical basada en un muntatge no lineal, fet que la distingeix de la gran majoria de programes de producció musical tradicionals. És a dir, el programa ofereix una Vista de la Sessió (*Session Veiw*) on la música no es tracta com una línia en el temps fix, que es fracciona com una matriu de mòduls capaços de ser editats i llançats a temps real, barrejant fragments de forma indeterminada. A més aquesta interfície coexisteix simultàniament amb la Vista d'Arranjaments (*Arrangement View*) on l'usuari pot modificar i adaptar el aquests fragments en una línia temporal donant una coherència musical a la creació. 
 
+ <br>
+  <br>
+  
+<div align="center">
+  <img src="img/Estudio grabación.png" width="400"><br>
+
+  <div style="text-align:left; width:400px; margin:0 auto;">
+    <small><sub><i>
+      <p>Logo Ableton Live (CC BY-SA 4.0)</p>
+    </i></sub></small>
+  </div>
+</div>
+  <br>
+
+
+<div align="center">
+  <img src="img/directo.png" width="400"><br>
+
+  <div style="text-align:left; width:400px; margin:0 auto;">
+    <small><sub><i>
+      <p>Logo de Capture Visualisation. © Capture Visualisation AB.</p>
+      <p>Ús merament identificatiu.</p>
+    </i></sub></small>
+  </div>
+</div>
+  <br>
+
 D'altra banda un aspecte fonamental que integra el programa en un entorn d'hibridació, és la capacitat que té aquest per treballar en entorns MIDI. El mapeig de controladors físics que es sincronitzen de forma immediata amb el programari, demostra com l'entorn virtual del programa també s'hibrida amb l'entorn físic. 
 <br>
 <br>
