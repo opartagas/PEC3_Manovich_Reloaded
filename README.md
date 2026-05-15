@@ -51,7 +51,7 @@ El programa ofereix una composició musical basada en un muntatge no lineal, fet
 D'altra banda un aspecte fonamental que integra el programa en un entorn d'hibridació, és la capacitat que té aquest per treballar en entorns MIDI. El mapeig de controladors físics que es sincronitzen de forma immediata amb el programari, demostra com l'entorn virtual del programa també s'hibrida amb l'entorn físic. 
 <br>
 <br>
-#### REMIXABIULITAT PROFUNDA
+#### REMIXABILITAT PROFUNDA
 Un dels elements claus que permet manipular de forma estructural el concepte de la composició, separant diferents variables, però mantenint la coherència del resultat, és la funcionalitat del Warping. Tal com menciona Manovich en referència a la remixabilitat profunda, aquesta tècnica "té la capacitat de desmuntar, alterar i recombinar els elements interns i els pròpis llenguatges dels mitjans a un nivell atòmic." És capaç de separar la velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectament en el mateix tempo i tonalitat. 
 
 D'altra banda l'eina Max for Live (M4L), permet modificar i programar els plugins que venen de fàbrica segons les necessitats de l'usuari. L'eina obre les portes a programar i crear els mateixos instruments, efectes d'audio i eines MIDI dins del mateix Ableton, fent que l'usuari sigui el mateix creador d'eines programant en la profunditat dels recursos del programari. 
@@ -65,20 +65,21 @@ Ableton Live, en l'era digital, esdevé una eina on la música es percep com la 
 <br>
 ## Cas d'Hibridació 2: [Capture]
 #### **CONTEXTUALITZACIÓ**
-Capture Visualitation, és un programari que actua com a pont entre l'espai escenogràfic tangible i l'espai virtual digital. Mitjançant l'algoritme som capaços de desmaterialitzar l'espai escènic i la llum per realitzar prototips de dissenys d'il·luminació abans de ser executats en un escenari real. Aquest fet canvia per complert el paradigma de del disseny de llums en el món de l'espectacle, permetent anticipar qualsevol planificació de muntatge de forma virtual.
+Capture, és un programari que actua com a pont entre l'espai escenogràfic tangible i l'espai virtual digital. Mitjançant l'algoritme som capaços de desmaterialitzar l'espai escènic i la llum per realitzar prototips de dissenys d'il·luminació abans de ser executats en un escenari real. Aquest fet canvia per complert el paradigma de del disseny de llums en el món de l'espectacle, permetent anticipar qualsevol planificació de muntatge de forma virtual.
 
 El programari esdevé laboratori virtual en una *"capa invisible"*, que permet a tot un equip de disseny (escenografs, il·luminadors, tècnics i directors), creeï, programi i assagi un espectacle de gran format, molt abans de que la producció executiva entri en joc.
 En aquest context, s'hibriden en un sol procés eines que abans funcionaven de forma separada: la planimetria 2D, el modelatge 3D, la programació d'il·luminació, la simulació virtual i documentació. Capture, es transforma així en un metamedi, tal com mencionaven Kay i Goldberg on tots els procesos s'integren un sol ecosistema digital que redefineix els mitjans físics originals.
 <br>
 <br>
-#### **HIBRIDACIÓ DE TÈCNIQUES**
-Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·luminacions provinent de tres disciplines originalment separades: la planimetria 2D i el modelatge 3D (propis de l'arquitectura i l'enginyeria), la programació d'il·luminació (vinculada a l'automatització i seqüenciació d'espectacles en viu) i la simulació física de la llum (relacionada amb la creació artística i la narrativa visual).
+#### HIBRIDACIÓ DE TÈCNIQUES
 
-En aquest context virtual una de les peculiaritats que l'integra com a mitja d'hibridació física-virtual és la seva capacitat de connectar una taula de llums física, de manera que els senyals DMX reals es tradueixen immediatament en comportaments lumínics dins del model 3D. Això permet que un mitja físic extern controli en un entorn virtual en 3D, simulant amb precisió el que en un futur esdevindrà un espectacle en viu. Tanmateix, permet que tot un seguit de recursos que en un escenari operen de forma aïllada, puguin ser virtualitzats i sincronitazats en un sol entorn, aaconseguin que diferents disciplines de l'espectacle en viu interactuin en un sol ecosistema digital. 
+Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·luminacions provinent de tres disciplines originalment separades: la planimetria 2D i el modelatge 3D (propis de l'arquitectura i l'enginyeria), la programació d'il·luminació (vinculada a l'automatització i seqüenciació d'espectacles en viu) i la simulació física de la llum (relacionada amb la creació artística i la narrativa visual). Aquesta convergència crea un espai on la representació espacial, el control tècnic i la visualització artística no només conviuen, sinó que s’integren operativament.
+
+En aquest context virtual una de les peculiaritats que l'integra com a mitja d'hibridació física-virtual és la seva capacitat de connectar una taula de llums física, de manera que els senyals DMX reals es tradueixen immediatament en comportaments lumínics dins del model 3D. Això permet que un mitjà físic extern controli en un entorn virtual en 3D, simulant amb precisió el que en un futur esdevindrà un espectacle en viu. Tanmateix, permet que tot un seguit de recursos que en un escenari operen de forma aïllada, puguin ser virtualitzats i sincronitzats en un sol entorn, aconseguint que diferents disciplines de l'espectacle en viu interactuïn en un sol ecosistema digital. 
 
 <br>
 <br>
-#### REMIXABIULITAT PROFUNDA
+#### REMIXABILITAT PROFUNDA
 
 <br>
 <br>
