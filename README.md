@@ -166,7 +166,11 @@ Finalment, Capture genera una nova gestalt en el disseny de la il·luminació es
 Tal com menciona Manovich, aquesta hibridació crea un llenguatge propi on la simulació és el resultat d'un procés integrat, possible gràcies al fet que el "software ha passat a ser la capa invisible que impregna totes les etapes de la creació". El resultat és una hibridada en un metamitja on l'il·luminador pot treballar amb una sola "caixa d'eines digital" que anteriorment requerien mitjans separats i desconnectats entre si.
 
 ## CONCLUSIONS
+Després d'analitzar l'Abelton Live i el Capture, queda clar que l'ordinador ja no és una eina que només es limita a imitar objectes (màquina escriure, calculadora) sinó que esdevé un metamedi dinàmic. És a dir permet que disciplines que abans es realitzaven de forma física, com elaborar un plànol modelar una maqueta en 3D, enfocar un foco, ara conviuen en un mateix ecosistema digital que permet que aquestes interactuïn entre elles. La hibridació és, doncs, la interacció profunda de diferents tècniques en un metamedi.
 
+Aquest fet ha permès democratitzar l'accés a diferents disciplines, les quals era molt complicat accedir. Gràcies a la capa invisible del programari, qualsevol persona pot fer produccions d'alt nivell a un cost molt baix.
+
+Per acabar i fent menció de Manovich, la hibridació ens fa entendre que el software no és només una eina, sinó que esdevé la nostra interfície cultural en el món.
 
 ## BIBLIOGRAFIA 
 - Adell, Ferran. (2024). Remediació, multimèdia i hibridació. [Recurs d'aprenentatge]. UOC.
