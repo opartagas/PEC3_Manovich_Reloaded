@@ -37,12 +37,22 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
   <br>
 
 ## Cas d'Hibridació 1: [Ableton Live] 
-L'Ableton live és un clar exemple de com el progrmari a pres el control en l'entorn de la producció musical. El fet que marca le diferència amb altres seqüenciadors musicals, és que la fussió de diferents tecniques de producció, ha esdevingut un programa dissenyat per ser un instrument en directe, un estudi de gravació amb funcionalitats per compondre, gravar arrenjar i matseritzar i a la vegada una taula de mescles de DJ oferint les mateixes prestacions.
+
+###**CONTEXTUALITZACIÓ**
+
+L'Ableton live és un clar exemple, tal com menciona Manovich, de com el software ha passat a ser la capa invisible que impregna totes les etapes de la creació, en aquest cas de la producció musical. L'origen cnceptual d'aquesta eina neix a Berlin als anys 2000, es va crear amb la intenció de trencar la rigidesa dels estudis de gravació analògics i els seqüenciadors digitals. El fet que marca le diferència amb altres seqüenciadors musicals, és que la fussió de diferents tecniques de producció, ha esdevingut un híbrid de mitjans dissenyat per ser un instrument en directe, un estudi de gravació amb funcionalitats per compondre, gravar arrenjar i matseritzar, i a la vegada una taula de mescles de DJ oferint les mateixes prestacions.
+
+
+###*HIBRIDACIÓ DE TÈCNIQUES*
 
 El programa ofereix una composició musical amb un muntatge no lineal típic de la gran majoria de programes de producció musical. És a dir en la vista de la sessió la música no es tracta com una línia en el temps fixe, sino que es fracciona com una matriu de moduls capaç de ser editada a temps real barrejant fragments.
 
+###**REMIXABIULITAT PROFUNDA**
+
 Un dels elements claus que que permet manipular de forma estructural el concepte de la composició, separant diferents variables però mantenint la coherència del resultat, és la funcionalitat del Wraping. Aquesta tècnica permet separar el velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectement en el mateix tempo i tonalitat. 
 
+
+###**NOVA GESTALT**
 
 
 ### Anàlisi d'hibridació
