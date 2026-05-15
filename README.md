@@ -52,11 +52,12 @@ El programa ofereix una composició musical basada en un muntatge no lineal, fet
   <br>
   
 <div align="center">
-  <img src="img/Estudio grabación.png" width="400"><br>
+  <img src="img/Ableton_logo.png" width="400"><br>
 
   <div style="text-align:left; width:400px; margin:0 auto;">
     <small><sub><i>
-      <p>Logo Ableton Live (CC BY-SA 4.0)</p>
+      <p>Imatge de l'espai d'arranjaments, on es pot modificar i adaptar els clips</p>
+     <p>*Arrangement View*</p>
     </i></sub></small>
   </div>
 </div>
@@ -64,12 +65,12 @@ El programa ofereix una composició musical basada en un muntatge no lineal, fet
 
 
 <div align="center">
-  <img src="img/directo.png" width="400"><br>
+  <img src="img/Session veiw.png" width="400"><br>
 
   <div style="text-align:left; width:400px; margin:0 auto;">
     <small><sub><i>
-      <p>Logo de Capture Visualisation. © Capture Visualisation AB.</p>
-      <p>Ús merament identificatiu.</p>
+      <p>Area de Flux de treball no lineal.</p>
+      <p>*Session Veiw*</p>
     </i></sub></small>
   </div>
 </div>
