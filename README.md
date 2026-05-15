@@ -136,9 +136,12 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 <br>
 <br>
 
-<a href="[https://www.youtube.com/watch?v=3-lpBDL17Eg](https://www.youtube.com/watch?v=3-lpBDL17Eg)">
-  <img src="[https://www.youtube.com/watch?v=3-lpBDL17Eg](https://www.youtube.com/watch?v=3-lpBDL17Eg)" alt="Ver video">
-</a>
+<iframe width="560" height="315"
+src="[https://www.youtube.com/embed/ID_DEL_VIDEO](https://www.youtube.com/watch?v=3-lpBDL17Eg)https://www.youtube.com/watch?v=3-lpBDL17Eg"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
  <div style="text-align:left; width:400px; margin:0 auto;">
     <small><sub><i>
       <p>Video de Stage Management Company.</p>
