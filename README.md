@@ -137,7 +137,7 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 <br>
  <br>
 </div>
-<a href="https://www.youtube.com/watch?v=3-lpBDL17Eg">
+<a href="[https://www.youtube.com/watch?v=3-lpBDL17Eg](https://www.youtube.com/watch?v=3-lpBDL17Eg)">
  <div align="center">
   <img src="img/DEMO CAPTURE.png"width="400"><br>
 </a>
