@@ -127,7 +127,6 @@ En aquest context, s'hibriden en un sol procés eines que abans funcionaven de f
 </div>
 
 <br>
-<br>
 
 #### **HIBRIDACIÓ DE TÈCNIQUES**
 
@@ -136,6 +135,18 @@ Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·l
 En aquest context virtual una de les peculiaritats que l'integra com a mitja d'hibridació física-virtual és la seva capacitat de connectar una taula de llums física, de manera que els senyals DMX reals es tradueixen immediatament en comportaments lumínics dins del model 3D. Això permet que un mitjà físic extern controli en un entorn virtual en 3D, simulant amb precisió el que en un futur esdevindrà un espectacle en viu. Tanmateix, permet que tot un seguit de recursos que en un escenari operen de forma aïllada, puguin ser virtualitzats i sincronitzats en un sol entorn, aconseguint que diferents disciplines de l'espectacle en viu interactuïn en un sol ecosistema digital. 
 <br>
 <br>
+
+<a href="https://www.youtube.com/watch?v=3-lpBDL17Eg">
+  <img src="https://www.youtube.com/watch?v=3-lpBDL17Eg" alt="Ver video">
+</a>
+ <div style="text-align:left; width:400px; margin:0 auto;">
+    <small><sub><i>
+      <p>Video de Stage Management Company.</p>
+     <p>Demo creada amb Capture, d'un Show de llums sincronitzat amb la musica</p>
+    </i></sub></small>
+  </div>
+</div>
+
 
 #### **REMIXABILITAT PROFUNDA**
 
