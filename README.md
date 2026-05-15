@@ -136,7 +136,9 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 <br>
 <br>
 
-[![DEMO CAPTURE]([https://youtube.com)](https://www.youtube.com/watch?v=3-lpBDL17Eg)]([https://youtube.com](https://www.youtube.com/watch?v=3-lpBDL17Eg))
+<a href="https://www.youtube.com/watch?v=3-lpBDL17Eg">
+  <img src="[https://youtube.com" alt="DEMO-CAPTURE](https://www.youtube.com/watch?v=3-lpBDL17Eg)">
+</a>
 
  <div style="text-align:left; width:400px; margin:0 auto;">
     <small><sub><i>
