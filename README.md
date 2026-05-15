@@ -79,6 +79,7 @@ En aquest context virtual una de les peculiaritats que l'integra com a mitja d'h
 
 <br>
 <br>
+
 #### **REMIXABILITAT PROFUNDA**
 
 Capture exemplifica la remixabilitat profunda descrita per Manovich perquè permet descompondre i manipular tots els elements d’un disseny lumínic a un nivell estructural. El programa no només ofereix un catàleg extens de projectors que esdeven objectes de forma modular amb paràmetres independents —color, intensitat, focus, gobo, moviment— que poden ser modificats, sinó que permet que les lleis de la física (com la reflexió o la dispersió en el fum) esdevinguin elements de programari manipulables de forma independent. 
