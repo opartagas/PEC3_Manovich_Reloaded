@@ -76,7 +76,6 @@ En aquest context, s'hibriden en un sol procés eines que abans funcionaven de f
 Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·luminacions provinent de tres disciplines originalment separades: la planimetria 2D i el modelatge 3D (propis de l'arquitectura i l'enginyeria), la programació d'il·luminació (vinculada a l'automatització i seqüenciació d'espectacles en viu) i la simulació física de la llum (relacionada amb la creació artística i la narrativa visual). Aquesta convergència crea un espai on la representació espacial, el control tècnic i la visualització artística no només conviuen, sinó que s’integren operativament.
 
 En aquest context virtual una de les peculiaritats que l'integra com a mitja d'hibridació física-virtual és la seva capacitat de connectar una taula de llums física, de manera que els senyals DMX reals es tradueixen immediatament en comportaments lumínics dins del model 3D. Això permet que un mitjà físic extern controli en un entorn virtual en 3D, simulant amb precisió el que en un futur esdevindrà un espectacle en viu. Tanmateix, permet que tot un seguit de recursos que en un escenari operen de forma aïllada, puguin ser virtualitzats i sincronitzats en un sol entorn, aconseguint que diferents disciplines de l'espectacle en viu interactuïn en un sol ecosistema digital. 
-
 <br>
 <br>
 
