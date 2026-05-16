@@ -40,13 +40,13 @@ Aquest estudi preten explorar dos casos on la hibridació del mitja s'ha convert
 
 #### **CONTEXTUALITZACIÓ**
 
-L'Ableton Live és un clar exemple, tal com menciona Manovich, de com el *"software ha passat a ser la capa invisible que impregna totes les etapes de la creació"*, en aquest cas de la producció musical. L'origen conceptual d'aquesta eina neix a Berlín als anys 2000, i es va crear amb la intenció de trencar la rigidesa dels estudis de gravació analògics i els seqüenciadors digitals. El fet que marca la diferència amb altres programes musicals és que, mitjançant la fusió de diferents tècniques de producció, ha esdevingut un híbrid de mitjans. Està dissenyat per ser alhora, un instrument en directe, un estudi de gravació amb capacitats per compondre, gravar arranjar i masteritzar, i una taula de mescles de DJ oferint les mateixes prestacions.
+L'Ableton Live és un clar exemple, tal com menciona Manovich, de com el *"software ha passat a ser la capa invisible que impregna totes les etapes de la creació"*, en aquest cas de la producció musical. L'origen conceptual d'aquesta eina neix a Berlín als anys 2000, i es va crear amb la intenció de trencar la rigidesa dels estudis de gravació analògics i els seqüenciadors digitals. El fet que marca la diferència amb altres programes musicals rau en que, mitjançant la fusió de diferents tècniques de producció, ha esdevingut un híbrid de mitjans amb molta més versatibilitat creativa. Està dissenyat per ser alhora, un instrument en directe, un estudi de gravació amb capacitats per compondre, gravar arranjar i masteritzar, i una taula de mescles de DJ oferint les mateixes prestacions.
 
-Gràcies a la nova estructuració i optimització del programari, l'estudi de gravació es redueix a un ordinador portàtil. Això permet que els processos de composició, mescla i interpretació en directe es puguin dur a terme tant en un escenari o a un entorn domèstic, obrint les portes a la democratització creativa en la producció musical. 
+Gràcies a la nova estructuració i optimització del programari, l'estudi de gravació es redueix a un ordinador portàtil. Això permet que els processos de composició, mescla i interpretació en directe es puguin dur a terme tant en un escenari com en un entorn domèstic, obrint les portes a la democratització creativa en la producció musical. 
 <br>
 <br>
 #### **HIBRIDACIÓ DE TÈCNIQUES**
-El programa ofereix una composició musical basada en un muntatge no lineal, fet que la distingeix de la gran majoria de programes de producció musical tradicionals. És a dir, el programa ofereix una Vista de la Sessió (*Session Veiw*) on la música no es tracta com una línia en el temps fix, que es fracciona com una matriu de mòduls capaços de ser editats i llançats a temps real, barrejant fragments de forma indeterminada. A més aquesta interfície coexisteix simultàniament amb la Vista d'Arranjaments (*Arrangement View*) on l'usuari pot modificar i adaptar el aquests fragments en una línia temporal donant una coherència musical a la creació. 
+El programa ofereix una composició musical basada en un muntatge no lineal, fet que la distingeix de la gran majoria de programes de producció musical tradicionals. És a dir, el programa ofereix una Vista de la Sessió (*Session Veiw*) on la música no es tracta com una línia en el temps fix, sinó que es fracciona com una matriu de mòduls capaços de ser editats i llançats a temps real, barrejant fragments de forma indeterminada. A més aquesta interfície coexisteix simultàniament amb la Vista d'Arranjaments (*Arrangement View*) on l'usuari pot modificar i adaptar aquests fragments en una línia temporal donant una coherència musical a la creació. 
 
  <br>
   <br>
@@ -80,7 +80,7 @@ D'altra banda un aspecte fonamental que integra el programa en un entorn d'hibri
 <br>
 <br>
 #### **REMIXABILITAT PROFUNDA**
-Un dels elements claus que permet manipular de forma estructural el concepte de la composició, separant diferents variables, però mantenint la coherència del resultat, és la funcionalitat del Warping. Tal com menciona Manovich en referència a la remixabilitat profunda, aquesta tècnica "té la capacitat de desmuntar, alterar i recombinar els elements interns i els pròpis llenguatges dels mitjans a un nivell atòmic." És capaç de separar la velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectament en el mateix tempo i tonalitat. 
+L'Ableton Live conté una tècnica clau que, permet manipular de forma estructural el concepte de la composició, separant diferents variables, però mantenint la coherència del resultat, aquesta tècnica és la funcionalitat del Warping. Tal com menciona Manovich en referència a la remixabilitat profunda, aquesta tècnica "té la capacitat de desmuntar, alterar i recombinar els elements interns i els pròpis llenguatges dels mitjans a un nivell atòmic." És capaç de separar la velocitat del so i la tonalitat en dues variables independents i que aquesta última no es vegi afectada permeten mescles de sons completament diferents hibridant-se perfectament en el mateix tempo i tonalitat. 
 
  <br>
   <br>
@@ -108,10 +108,10 @@ Ableton Live, en l'era digital, esdevé una eina on la música es percep com la 
 <br>
 ## Cas d'Hibridació 2: [Capture]
 #### **CONTEXTUALITZACIÓ**
-Capture, és un programari que actua com a pont entre l'espai escenogràfic tangible i l'espai virtual digital. Mitjançant l'algoritme som capaços de desmaterialitzar l'espai escènic i la llum per realitzar prototips de dissenys d'il·luminació abans de ser executats en un escenari real. Aquest fet canvia per complert el paradigma de del disseny de llums en el món de l'espectacle, permetent anticipar qualsevol planificació de muntatge de forma virtual.
+Capture, és un programari que actua com a pont entre l'espai escenogràfic tangible i l'espai virtual digital. Mitjançant l'algoritme som capaços de desmaterialitzar l'espai escènic i la llum per realitzar prototips de dissenys d'il·luminació abans de ser executats en un escenari real. Aquest fet canvia per complert el paradigma del disseny de llums en el món de l'espectacle, permetent anticipar qualsevol planificació de muntatge de forma virtual.
 
-El programari esdevé laboratori virtual en una *"capa invisible"*, que permet a tot un equip de disseny (escenografs, il·luminadors, tècnics i directors), creeï, programi i assagi un espectacle de gran format, molt abans de que la producció executiva entri en joc.
-En aquest context, s'hibriden en un sol procés eines que abans funcionaven de forma separada: la planimetria 2D, el modelatge 3D, la programació d'il·luminació, la simulació virtual i documentació. Capture, es transforma així en un metamedi, tal com mencionaven Kay i Goldberg on tots els procesos s'integren un sol ecosistema digital que redefineix els mitjans físics originals.
+El programari esdevé laboratori virtual en una *"capa invisible"*, que permet que tot un equip de disseny (escenografs, il·luminadors, tècnics i directors), creeï, programi i assagi un espectacle de gran format, molt abans de que la producció executiva entri en joc.
+En aquest context, s'hibriden en un sol procés eines que abans funcionaven de forma separada: la planimetria 2D, el modelatge 3D, la programació d'il·luminació, la simulació virtual i documentació. Capture, es transforma així en un metamedi, tal com mencionaven Kay i Goldberg, on tots els procesos s'integren un sol ecosistema digital que redefineix els mitjans físics originals.
  <br>
   <br>
   
@@ -132,7 +132,7 @@ En aquest context, s'hibriden en un sol procés eines que abans funcionaven de f
 
 Capture fusiona clarament tres tècniques imprescindibles en la creació d'il·luminacions provinent de tres disciplines originalment separades: la planimetria 2D i el modelatge 3D (propis de l'arquitectura i l'enginyeria), la programació d'il·luminació (vinculada a l'automatització i seqüenciació d'espectacles en viu) i la simulació física de la llum (relacionada amb la creació artística i la narrativa visual). Aquesta convergència crea un espai on la representació espacial, el control tècnic i la visualització artística no només conviuen, sinó que s’integren operativament.
 
-En aquest context virtual una de les peculiaritats que l'integra com a mitja d'hibridació física-virtual és la seva capacitat de connectar una taula de llums física, de manera que els senyals DMX reals es tradueixen immediatament en comportaments lumínics dins del model 3D. Això permet que un mitjà físic extern controli en un entorn virtual en 3D, simulant amb precisió el que en un futur esdevindrà un espectacle en viu. Tanmateix, permet que tot un seguit de recursos que en un escenari operen de forma aïllada, puguin ser virtualitzats i sincronitzats en un sol entorn, aconseguint que diferents disciplines de l'espectacle en viu interactuïn en un sol ecosistema digital. 
+En aquest context virtual una de les peculiaritats que l'integra com a mitja d'hibridació física-virtual és la seva capacitat de connectar una taula de llums física amb l'entorn de programació i virtualització, de manera que els senyals DMX reals es tradueixen immediatament en comportaments lumínics dins del model 3D. Això permet que un mitjà físic extern controli un entorn virtual en 3D, simulant amb precisió el que en un futur esdevindrà un espectacle en viu. Tanmateix, permet que tot un seguit de recursos que en un escenari operen de forma aïllada, puguin ser virtualitzats i sincronitzats en un sol entorn, aconseguint que diferents disciplines de l'espectacle en viu interactuïn en un sol ecosistema digital. 
 <br>
 <br>
  <br>
@@ -162,12 +162,12 @@ Aquesta combinació crea un ecosistema viu i variable on la intervenció lumíni
 <br>
 #### **NOVA GESTALT**
 
-Finalment, Capture genera una nova gestalt en el disseny de la il·luminació escènica. L'experiència de l'usuari no és la suma d'elements separats (plànol 2D + model 3D + programació DMX), sinó una nova entitat on es realitza el projecte complet d'una il·luminació, trencant les  fronteres entre el disseny tècnic i la realitat visual per esdevenir un projecte tècnic i artístic únic. 
+Finalment, Capture genera una nova gestalt en el disseny de la il·luminació escènica. L'experiència de l'usuari no és la suma d'elements separats (plànol 2D + model 3D + programació DMX), sinó una nova entitat on es realitza el projecte complet d'una il·luminació, trencant les  fronteres entre el disseny tècnic i la realitat virtual per esdevenir un projecte tècnic i artístic únic. 
 
-Tal com menciona Manovich, aquesta hibridació crea un llenguatge propi on la simulació és el resultat d'un procés integrat, possible gràcies al fet que el "software ha passat a ser la capa invisible que impregna totes les etapes de la creació". El resultat és una hibridada en un metamitja on l'il·luminador pot treballar amb una sola "caixa d'eines digital" que anteriorment requerien mitjans separats i desconnectats entre si.
+Tal com menciona Manovich, aquesta hibridació crea un llenguatge propi on la simulació és el resultat d'un procés integrat. Això és possible gràcies al fet que el "software ha passat a ser la capa invisible que impregna totes les etapes de la creació". El resultat és una hibridació en un metamitja on l'il·luminador pot treballar amb una sola "caixa d'eines digital" que anteriorment requerien mitjans separats i desconnectats entre si.
 
 ## CONCLUSIONS
-Després d'analitzar l'Abelton Live i el Capture, queda clar que l'ordinador ja no és una eina que només es limita a imitar objectes (màquina escriure, calculadora) sinó que esdevé un metamedi dinàmic. És a dir permet que disciplines que abans es realitzaven de forma física, com elaborar un plànol modelar una maqueta en 3D, enfocar un foco, ara conviuen en un mateix ecosistema digital que permet que aquestes interactuïn entre elles. La hibridació és, doncs, la interacció profunda de diferents tècniques en un metamedi.
+Després d'analitzar l'Abelton Live i el Capture, queda clar que l'ordinador ja no és una eina que només es limita a imitar objectes (màquina escriure, calculadora) sinó que esdevé un metamedi dinàmic. És a dir permet que disciplines que abans es realitzaven de forma física, com elaborar un plànol en 2D, modelar una maqueta en 3D, enfocar un foco, ara conviuen en un mateix ecosistema digital que permet que aquestes interactuïn entre elles. La hibridació és, doncs, la interacció profunda de diferents tècniques en un metamedi.
 
 Aquest fet ha permès democratitzar l'accés a diferents disciplines, les quals era molt complicat accedir. Gràcies a la capa invisible del programari, qualsevol persona pot fer produccions d'alt nivell a un cost molt baix.
 
